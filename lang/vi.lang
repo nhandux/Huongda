@@ -1,0 +1,72 @@
+<?php
+// Page
+	$lgTxt_lang                           = 'vi';
+	$lgTxt_social                         = 'Liên kết mạng xã hội';
+	$lgTxt_social_face                    = 'Liên kết Facebook';
+	$lgTxt_update                         = 'Dữ liệu rỗng... Bạn vui lòng quay lại sau!';
+	$lgTxt_prupdate                       = 'Sản phẩm đang được cập nhật... Bạn vui lòng quay lại sau!';
+	$lgTxt_error_page                     = 'Trang thông báo lỗi';
+	$lgTxt_page404                        = 'Liên kết không tồn tại, vui lòng';
+	$lgTxt_page404_click                  = 'bấm';
+	$lgTxt_page404_back                   = 'để quay lại';
+	$lgTxt_article_plus                   = 'Các tin khác:';
+	$lgTxt_article_other                  = 'Cùng chuyên mục:';
+
+	$lgTxt_detail                         = 'Xem thêm';
+	$lgTxt_view_all                       = 'Tất cả';
+
+	$lgTxt_slug_cart                      = 'mua-hang';
+	$lgTxt_menu_cart                      = 'Sản phẩm đã chọn';
+	$lgTxt_menu_cart                      = 'Giỏ hàng';
+
+	$lgTxt_name_book                      = 'Đặt ngay';
+	$lgTxt_name_order                     = 'Đặt Giao Hàng';
+	$lgTxt_name_delivery                  = 'Giao Hàng';
+
+	$lgTxt_cart_img                      = 'Hình ảnh';
+	$lgTxt_cart_product                  = 'Sản phẩm';
+	$lgTxt_cart_unit                     = 'Đơn giá';
+	$lgTxt_cart_number                   = 'Số lượng';
+	$lgTxt_cart_money                    = 'Thành tiền';
+	$lgTxt_cart_cancel                   = 'Hủy';
+	$lgTxt_cart_contact                  = 'Liên hệ';
+	$lgTxt_cart_empty                    = 'Giỏ hàng rỗng';
+	$lgTxt_cart_update                   = 'Cập nhật giỏ hàng';
+	$lgTxt_cart_continue                 = 'Tiếp tục chọn món';
+
+// Menu
+	$lgTxt_menu_home                      = 'Trang chủ';
+	$lgTxt_menu_contact                   = 'Liên hệ';
+	$lgTxt_slug_contact                   = 'lien-he';
+
+	$lgTxt_title_search                    = 'Tìm kiếm';
+	$lgTxt_input_search                   = 'Tìm kiếm nhanh...';
+	$lgTxt_slug_search                    = 'tim-kiem';
+	$lgTxt_title_login                    = 'Đăng nhập';
+
+// Contact
+	$txtContact_titleForm                 = 'Thắc mắc - Góp ý';
+	$txtContact_name		              = 'Họ và tên: (*)';
+	$txtContact_address	                  = 'Địa chỉ:';
+	$txtContact_email		              = 'Email:  (*)';
+	$txtContact_fone		              = 'Số điện thoại: (*)';
+	$txtContact_content	                  = 'Nội dung liên hệ: (*)';
+	$txtContact_button_s	              = 'Gửi đi';
+	$txtContact_sendOk		              = 'Xin chân thành cảm ơn Quý khách đã quan tâm và sử dụng dịch vụ của chúng tôi!
+Yêu cầu của Quý khách đã gửi thành công. Chúng tôi sẽ phản hồi lại trong vòng 24h tới.
+Chân thành cảm ơn!';
+	$txtContact_sendDie	                  = 'Không thể gửi thư vì một vài lỗi từ phía máy chủ.';
+
+	$txtOrder_sendOk		              = 'Xin chân thành cảm ơn Quý khách đã quan tâm và sử dụng dịch vụ của chúng tôi!
+Yêu cầu của Quý khách đã gửi thành công. Chúng tôi sẽ phản hồi lại trong vòng 24h tới.
+Chân thành cảm ơn!';
+
+    $txtEnter_field		                  = 'Trường bắt buộc.';
+    $txtEnter_email		                  = 'Địa chỉ Email không hợp lệ.';
+    $txtEnter_tell		                  = 'Số điện thoại không hợp lệ.';
+	$txtEnter_number		              = 'Số không hợp lệ.';
+
+	$lgTxt_register_mail_title            = 'Đăng ký nhận khuyến mãi';
+	$lgTxt_register_mail_input            = 'Vui lòng nhập email...';
+	$txtEmail_sendOk		              = 'Đăng ký email nhận tin khuyến mãi thành công.';
+	$txtEmail_sendDie	                  = 'Không thể thực hiện vì một vài lỗi từ phía máy chủ.';
